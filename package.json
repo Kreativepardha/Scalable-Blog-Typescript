@@ -1,0 +1,12 @@
+{
+  "name": "scalbale-blogging-app",
+  "version": "1.0.0",
+  "description": "Designing a blogging platform with TypeScript, PostgreSQL, Prisma, Redis, Kafka (optional), Docker, Kubernetes, Winston, Prometheus, Grafana, Terraform, and testing ensures a modern, scalable, and maintainable system. Below is the detailed design plan:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
